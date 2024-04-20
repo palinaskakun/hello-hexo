@@ -1,0 +1,4 @@
+Challenge #1: Static Site Explorer
+
+Create and deploy a two-page website for a fictitious starship manufacturing company using a different (not Eleventy) static site generator. It doesn't have to be a JavaScript project and GitHub publishes a good list of generators(this link opens in a new window/tab) to get you started. Your site should include 2 validated HTML pages and a stylesheet with at least 5 rulesets. Submit your public GitHub repo and Netlify URL to the C1 dropbox.
+
